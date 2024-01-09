@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/arionfrost/static/css/main.8e88fe5d.css",
+    "main.js": "/arionfrost/static/js/main.264bb2ce.js",
+    "static/js/583.49aeb935.chunk.js": "/arionfrost/static/js/583.49aeb935.chunk.js",
+    "static/js/872.6f7cdef1.chunk.js": "/arionfrost/static/js/872.6f7cdef1.chunk.js",
+    "static/js/227.380fa0e9.chunk.js": "/arionfrost/static/js/227.380fa0e9.chunk.js",
+    "static/js/526.2f003bed.chunk.js": "/arionfrost/static/js/526.2f003bed.chunk.js",
+    "static/js/232.f8ed4737.chunk.js": "/arionfrost/static/js/232.f8ed4737.chunk.js",
+    "static/js/237.f162a021.chunk.js": "/arionfrost/static/js/237.f162a021.chunk.js",
+    "static/js/357.c45583e6.chunk.js": "/arionfrost/static/js/357.c45583e6.chunk.js",
+    "static/media/Keychron01.png": "/arionfrost/static/media/Keychron01.b987627a6920151e6045.png",
+    "static/media/ArionFrost08.png": "/arionfrost/static/media/ArionFrost08.6aade0bb73dde16779f2.png",
+    "static/media/3.jpg": "/arionfrost/static/media/3.777cbdc77360afa6b7bd.jpg",
+    "static/media/10.jpg": "/arionfrost/static/media/10.573706d7fdd14e8bc79b.jpg",
+    "static/media/1.jpg": "/arionfrost/static/media/1.35ff5ea2d11e5918704a.jpg",
+    "static/media/2.jpg": "/arionfrost/static/media/2.6e34a4feb94858d1381c.jpg",
+    "static/media/8.jpg": "/arionfrost/static/media/8.20161711d13b305249ed.jpg",
+    "static/media/7.jpg": "/arionfrost/static/media/7.5b87a3f97056d475f27d.jpg",
+    "static/media/6.jpg": "/arionfrost/static/media/6.42beee439a039962c68d.jpg",
+    "static/media/9.jpg": "/arionfrost/static/media/9.abd69fd5d0b6ed148055.jpg",
+    "static/media/4.jpg": "/arionfrost/static/media/4.12064007a184b979d48b.jpg",
+    "static/media/5.jpg": "/arionfrost/static/media/5.37ad1932b5651df14dbe.jpg",
+    "static/media/ArionFrost05.png": "/arionfrost/static/media/ArionFrost05.a7b204338897cb0b5ee2.png",
+    "static/media/Arion Frost 03.png": "/arionfrost/static/media/Arion Frost 03.2962a81108520a7d4970.png",
+    "static/media/stars-bg.png": "/arionfrost/static/media/stars-bg.266cc89f5a5002451e13.png",
+    "index.html": "/arionfrost/index.html",
+    "main.8e88fe5d.css.map": "/arionfrost/static/css/main.8e88fe5d.css.map",
+    "main.264bb2ce.js.map": "/arionfrost/static/js/main.264bb2ce.js.map",
+    "583.49aeb935.chunk.js.map": "/arionfrost/static/js/583.49aeb935.chunk.js.map",
+    "872.6f7cdef1.chunk.js.map": "/arionfrost/static/js/872.6f7cdef1.chunk.js.map",
+    "227.380fa0e9.chunk.js.map": "/arionfrost/static/js/227.380fa0e9.chunk.js.map",
+    "526.2f003bed.chunk.js.map": "/arionfrost/static/js/526.2f003bed.chunk.js.map",
+    "232.f8ed4737.chunk.js.map": "/arionfrost/static/js/232.f8ed4737.chunk.js.map",
+    "237.f162a021.chunk.js.map": "/arionfrost/static/js/237.f162a021.chunk.js.map",
+    "357.c45583e6.chunk.js.map": "/arionfrost/static/js/357.c45583e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e88fe5d.css",
+    "static/js/main.264bb2ce.js"
+  ]
+}
